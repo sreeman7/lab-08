@@ -1,3 +1,4 @@
+// CMPUT 301 Lab 8 - Testing GitHub Actions
 package com.example.lab_8
 
 class Wizard(val name: String, var mana: Int, var spellPower: Int) {
